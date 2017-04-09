@@ -1,0 +1,12 @@
+h1 { font-family: 'Droid Sans', arial, serif; }
+h2 { font-family: 'Droid Sans', at, serif; }	
+h1 {color: #00ff00;}
+p {border-style: dotted;}
+img {
+
+    float: center;
+    
+    
+    margin: 20px;
+    border:20px;
+}
